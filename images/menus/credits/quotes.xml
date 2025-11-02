@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Quot.png" width="3248" height="3087" spritePadding="3" borderPadding="1">
+	<SubTexture name="Asyu0000" x="1" y="921" width="776" height="539" rotated="true" frameX="-278" frameY="-39" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Betasheep0000" x="780" y="921" width="776" height="539" rotated="true" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Awaken0000" x="1082" y="1" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="BoingBingus0000" x="1" y="1463" width="776" height="539" rotated="true" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Care0000" x="780" y="1463" width="776" height="539" rotated="true" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Ciphie0000" x="1624" y="1" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Coquers0000" x="1559" y="780" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Diggin0000" x="1" y="2005" width="776" height="539" rotated="true" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Firemaster0000" x="780" y="2005" width="776" height="539" rotated="true" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Frikko0000" x="1559" y="1559" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="hazey0000" x="2166" y="1" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Kane0000" x="1" y="1" width="1078" height="917" frameX="-2" frameY="-3" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="karlie0000" x="2101" y="780" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Leebert0000" x="2101" y="1559" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Lewis0000" x="1" y="2547" width="776" height="539" rotated="true" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="M3zra0000" x="780" y="2547" width="776" height="539" rotated="true" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Pablo0000" x="1559" y="2338" width="776" height="539" rotated="true" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Scrilopolis0000" x="2708" y="1" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="torders0000" x="2643" y="780" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Valcant0000" x="2643" y="1559" width="539" height="776" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+	<SubTexture name="Wellwoven0000" x="2338" y="2338" width="776" height="539" rotated="true" frameX="-277" frameY="-36" frameWidth="1080" frameHeight="920"/>
+</TextureAtlas>

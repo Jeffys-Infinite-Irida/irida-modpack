@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="legs.png" width="2961" height="2902" spritePadding="3" borderPadding="1">
+	<SubTexture name="detg0000" x="1" y="1" width="1303" height="760" frameX="0" frameY="-24" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0001" x="1" y="1" width="1303" height="760" frameX="0" frameY="-24" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0002" x="1307" y="1" width="925" height="960" rotated="true" frameX="-11" frameY="-46" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0003" x="1307" y="1" width="925" height="960" rotated="true" frameX="-11" frameY="-46" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0004" x="2235" y="1" width="725" height="803" frameX="-28" frameY="-62" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0005" x="2235" y="1" width="725" height="803" frameX="-28" frameY="-62" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0006" x="2279" y="1506" width="659" height="617" rotated="true" frameX="-182" frameY="-43" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0007" x="2279" y="1506" width="659" height="617" rotated="true" frameX="-182" frameY="-43" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0008" x="891" y="1798" width="808" height="516" rotated="true" frameX="-235" frameY="0" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0009" x="891" y="1798" width="808" height="516" rotated="true" frameX="-235" frameY="0" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0010" x="1231" y="964" width="903" height="440" rotated="true" frameX="-169" frameY="-2" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0011" x="1231" y="964" width="903" height="440" rotated="true" frameX="-169" frameY="-2" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0012" x="1702" y="1506" width="574" height="734" frameX="-71" frameY="-52" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0013" x="1702" y="1506" width="574" height="734" frameX="-71" frameY="-52" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0014" x="1" y="1198" width="1040" height="597" frameX="0" frameY="-49" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="detg0015" x="1" y="1198" width="1040" height="597" frameX="0" frameY="-49" frameWidth="1303" frameHeight="925"/>
+	<SubTexture name="marv0000" x="2137" y="964" width="795" height="539" frameX="0" frameY="-683" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0001" x="2137" y="964" width="795" height="539" frameX="0" frameY="-683" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0002" x="1" y="2359" width="650" height="542" frameX="-14" frameY="-697" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0003" x="1" y="2359" width="650" height="542" frameX="-14" frameY="-697" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0004" x="2176" y="2243" width="528" height="531" frameX="-77" frameY="-644" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0005" x="2176" y="2243" width="528" height="531" frameX="-77" frameY="-644" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0006" x="1673" y="2317" width="500" height="537" frameX="-204" frameY="-642" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0007" x="1673" y="2317" width="500" height="537" frameX="-204" frameY="-642" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0008" x="1" y="764" width="1227" height="431" rotated="true" frameX="-212" frameY="0" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0009" x="1" y="764" width="1227" height="431" rotated="true" frameX="-212" frameY="0" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0010" x="1253" y="2317" width="417" height="545" frameX="-193" frameY="-688" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0011" x="1253" y="2317" width="417" height="545" frameX="-193" frameY="-688" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0012" x="654" y="2359" width="596" height="534" frameX="-79" frameY="-691" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0013" x="654" y="2359" width="596" height="534" frameX="-79" frameY="-691" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0014" x="1" y="1798" width="887" height="558" frameX="-30" frameY="-645" frameWidth="887" frameHeight="1227"/>
+	<SubTexture name="marv0015" x="1" y="1798" width="887" height="558" frameX="-30" frameY="-645" frameWidth="887" frameHeight="1227"/>
+</TextureAtlas>

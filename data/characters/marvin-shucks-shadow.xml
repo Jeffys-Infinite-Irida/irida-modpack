@@ -1,0 +1,1 @@
+<!DOCTYPE codename-engine-character><character icon="marvin-shucks-shadow" color="#FFFFFF"><anim name="idle" anim="i"/><anim name="singUP" anim="u" y="90"/><anim name="singLEFT" anim="l" x="50" y="50"/><anim name="singRIGHT" anim="r" y="15"/><anim name="singDOWN" anim="d"/><anim name="anim" anim="n" x="45" y="40"/></character>

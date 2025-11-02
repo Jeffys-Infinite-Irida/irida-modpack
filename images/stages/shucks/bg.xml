@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bg.png" width="6336" height="7569" spritePadding="3" borderPadding="1">
+	<SubTexture name="chain0000" x="3482" y="6821" width="1939" height="488" frameX="-2303" frameY="-210" frameWidth="5414" frameHeight="3000"/>
+	<SubTexture name="extralight0000" x="1" y="6821" width="3478" height="275" frameX="-917" frameY="-307" frameWidth="5395" frameHeight="2981"/>
+	<SubTexture name="glow0000" x="3308" y="3733" width="2801" height="2251" frameX="-1342" frameY="0" frameWidth="5414" frameHeight="3000"/>
+	<SubTexture name="glow30000" x="1" y="1" width="5414" height="1863" frameX="0" frameY="0" frameWidth="5414" frameHeight="3000"/>
+	<SubTexture name="glow40000" x="1" y="1867" width="5414" height="1863" frameX="0" frameY="0" frameWidth="5414" frameHeight="3000"/>
+	<SubTexture name="hook0000" x="1" y="3733" width="3304" height="3000" frameX="-1145" frameY="0" frameWidth="5414" frameHeight="3000"/>
+	<SubTexture name="light0000" x="6007" y="6821" width="137" height="573" frameX="-2672" frameY="-398" frameWidth="5414" frameHeight="3000"/>
+	<SubTexture name="lightbase0000" x="1" y="6736" width="59" height="25" frameX="-2712" frameY="-377" frameWidth="5414" frameHeight="3000"/>
+	<SubTexture name="shit0000" x="3308" y="5987" width="3027" height="831" frameX="0" frameY="-1356" frameWidth="6000" frameHeight="2187"/>
+	<SubTexture name="wire0000" x="5424" y="6821" width="580" height="747" frameX="-1512" frameY="-1440" frameWidth="6000" frameHeight="2187"/>
+</TextureAtlas>

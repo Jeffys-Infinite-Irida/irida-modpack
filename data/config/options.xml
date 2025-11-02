@@ -1,0 +1,10 @@
+<menu name="Irida Options" desc="Options that are unique to 'Jeffy's Infinite Irida'.">
+    <menu name="Shaders" desc="Toggle on or off every shader! (Disable EVERY shader in 'Appearence > Advanced > Gameplay Shaders')">
+        <checkbox id="iridaBloom" name="Bloom"/>
+        <checkbox id="iridaColorCorrect" name="Color Correction"/>
+    </menu>
+    <checkbox id="iridaFPS" name="FPS Counter" desc="Toggles the framerate and memory counter in the top-left. (You can also press 'F3')"/>
+    <checkbox id="iridaCutscenes" name="Cutscenes" desc="Toggles video cutscenes that play before or after a song."/>
+    <checkbox id="iridaTimer" name="Time Left Text" desc="Toggles the text showing how long of the song is left in between the strums."/>
+    <checkbox id="iridaCombos" name="Rating Graphics" desc="Toggles the ratings which appear on the HUD whenever a note is pressed."/>
+</menu>
