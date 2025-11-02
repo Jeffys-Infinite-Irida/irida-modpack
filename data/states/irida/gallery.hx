@@ -4,7 +4,7 @@ import haxe.io.Path;
 import StringTools;
 
 var vid:FlxVideoSprite = new FlxVideoSprite();
-
+var mov:String = "mov";
 static var shit:Array<String> = Paths.getFolderContent("images/menus/gallery/content"); // .filter((_:String) -> return StringTools.endsWith(_, ".png"));
 var content:FlxGroup = new FlxGroup();
 
@@ -15,7 +15,7 @@ var arrowpress:FunkinSprite = new FunkinSprite(0, 0, Paths.image("menus/gallery/
 static var curGal:Int = 0;
 
 function create() {
-    vid.load(Assets.getPath(Paths.file('videos/gallerybg.mov')), ['input-repeat=65535']);
+    vid.load(Assets.getPath(Paths.file('videos/gallerybg.' + mov)), ['input-repeat=65535']);
     vid.play();
 
     var multi:FunkinSprite = new FunkinSprite(0, 0, Paths.image("menus/gallery/multiply")); 
