@@ -31,9 +31,9 @@ function update() {
     if (!trans)
         curMain = FlxMath.wrap(curMain + ((controls.UP_P ? -1 : 0) + (controls.DOWN_P ? 1 : 0) + -FlxG.mouse.wheel), 0, 4);
 
-    if (controls.SWITCHMOD && !trans) {
+    if (controls.SWITCHMOD || (controls.DEV_ACCESS && Options.devMode) && !trans) {
         persistentUpdate = !(persistentDraw = true);
-        openSubState(new ModSwitchMenu());
+        openSubState(controls.SWITCHMOD ? new ModSwitchMenu() : new EditorPicker());
     }
 
     if (controls.BACK && !trans)

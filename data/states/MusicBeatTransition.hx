@@ -20,5 +20,6 @@ function create() {
             FlxG.switchState(newState);
             FlxTween.tween(transTop, {y: -403}, 1, {ease: FlxEase.circInOut});
             FlxTween.tween(transBottom, {y: FlxG.height}, 1, {ease: FlxEase.circInOut});
-    }});
+        } else finish()
+    });
 }
